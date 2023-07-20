@@ -1,8 +1,8 @@
 var minhaVar;
 minhaVar=10;
 var soma=15 + 8;
-soma++
-soma=soma*3
+soma++;
+soma*=3;
 console.log(soma)
 
 var fazSol=true
