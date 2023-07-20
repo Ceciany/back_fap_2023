@@ -39,3 +39,26 @@ else{
     fazSol=false
     console.log(fazSol)
 }
+
+console.log("############################################");
+
+var n1=10;
+if (n1>0){
+    console.log("O número é positivo.");
+}
+else if (n1==0){
+    console.log("O número é igual a zero.");
+}
+else {
+    console.log("O número é negativo");
+}
+
+if (n1%2==0){
+    console.log("O número é divisível por 2.");
+}
+else if (n1%3==0){
+    console.log("O número é divisível por 3.");
+}
+else if (n1%5==0){
+    console.log("O número é divisível por 5");
+}
