@@ -22,4 +22,6 @@ function verifica (parametro){
     return Array.isArray(parametro)
 }
 
-console.log(verifica(frutas));
+let nome = "Ceciany"
+
+console.log(verifica(numeros2));
